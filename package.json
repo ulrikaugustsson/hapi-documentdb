@@ -1,0 +1,29 @@
+{
+  "name": "hapi-documentdb",
+  "version": "1.0.0",
+  "description": "Hapi plugin for Azures DocumentDB",
+  "main": "index.js",
+  "dependencies": {
+    "documentdb": "^1.0.3",
+    "hoek": "^2.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulrikaugustsson/hapi-documentdb.git"
+  },
+  "keywords": [
+    "hapi",
+    "documentdb",
+    "azure"
+  ],
+  "author": "Ulrik Augustsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ulrikaugustsson/hapi-documentdb/issues"
+  },
+  "homepage": "https://github.com/ulrikaugustsson/hapi-documentdb#readme"
+}
