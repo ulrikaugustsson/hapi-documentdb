@@ -1,10 +1,12 @@
 # hapi-documentdb
 Hapi plugin for documentdb
 
+
 ## installation
 ```
 npm install hapi-documentdb --save
 ```
+
 
 ## usage
 ```js
@@ -62,3 +64,7 @@ server.route(
 	}
 });
 ```
+
+
+## Tests
+There are no tests yet as this is just thrown together. Will get to it later.
